@@ -1,5 +1,3 @@
-* src folder contain source files.
+* this folder contain source files.
 	* compile App.java and run it.(give multicast ip)
 	* ex: java App 230.1.1.1
-
-* test folder contain unit test files.
